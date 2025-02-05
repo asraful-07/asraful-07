@@ -2,7 +2,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 </div>
 
-## Hi 👋, This is Asraful Islam 
+## Hi 👋, I'm Asraful Islam 
 
 <p align="center">
   <a href="https://github.com/atikur-24"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Front%20End%20Developer&center=true&width=400&height=60">

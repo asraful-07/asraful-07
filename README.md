@@ -1,7 +1,7 @@
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 </div>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=atikur-24&label=Profile%20views&color=0e75b6&style=flat" alt="atikur-24" /> </p> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asraful-07&label=Profile%20views&color=0e75b6&style=flat" alt="asraful-07" /> </p> 
 
 ## Hi 👋, I'm Asraful Islam 
 

@@ -18,6 +18,19 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
 </p>
 <br>
 
+<p align="center">
+  <a href="https://github.com/asraful-07">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asraful-07&theme=transparent" alt="Atikur Rahman's GitHub Contribution"/>
+  </a>
+   <a href="https://github.com/asraful-07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraful-07&hide_border=true&card_width=338&theme=transparent" alt="Atikur Rahman's GitHub streak"/>
+   </a>
+  <a href="https://github.asraful-07">
+    <img alt="Atikur Rahman's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asraful-07&theme=transparent"/>
+  </a>
+</p>
+<br>
+
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asraful-islam-573972318/)

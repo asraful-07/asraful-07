@@ -1,6 +1,7 @@
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=atikur-24&label=Profile%20views&color=0e75b6&style=flat" alt="atikur-24" /> </p> 
 
 ## Hi 👋, I'm Asraful Islam 
 
@@ -20,10 +21,10 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
 
 <p align="center">
   <a href="https://github.com/asraful-07">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asraful-07&theme=transparent" alt="Atikur Rahman's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asraful-07&theme=transparent" alt="Asraful Islam's GitHub Contribution"/>
   </a>
    <a href="https://github.com/asraful-07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraful-07&hide_border=true&card_width=338&theme=transparent" alt="Atikur Rahman's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraful-07&hide_border=true&card_width=338&theme=transparent" alt="Asraful Islam's GitHub streak"/>
    </a>
   <a href="https://github.asraful-07">
     <img alt="Atikur Rahman's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asraful-07&theme=transparent"/>

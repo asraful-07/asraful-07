@@ -30,6 +30,8 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
 ###  
 ### ⚙️ Backend  
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />

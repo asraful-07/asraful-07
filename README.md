@@ -20,6 +20,17 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
 </p>
 <br>
 
+<div align="center">
+  
+  ![](https://github-readme-stats.vercel.app/api?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asraful-07&theme=dark&mode=weekly)](https://git.io/streak-stats)
+
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+
 <p align="center">
   <a href="https://github.com/asraful-07">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asraful-07&theme=transparent" alt="Asraful Islam's GitHub Contribution"/>

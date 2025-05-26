@@ -36,12 +36,12 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
     </tr>
   </table>
 </div>
-
+  <tr> <td> 
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=asraful-07&theme=dark&mode=weekly" />
   </a>
-  
+  </td></tr>
 </div>
 
 

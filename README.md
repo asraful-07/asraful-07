@@ -21,28 +21,29 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
 <br>
 
 <div align="center">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asraful-07&theme=dark&mode=weekly)](https://git.io/streak-stats)
-
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <!-- Languages Used -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+      </td>
+      <td>
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=asraful-07&theme=dark&mode=weekly" />
+  </a>
+  
+</div>
 
-<p align="center">
-  <a href="https://github.com/asraful-07">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asraful-07&theme=transparent" alt="Asraful Islam's GitHub Contribution"/>
-  </a>
-   <a href="https://github.com/asraful-07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraful-07&hide_border=true&card_width=338&theme=transparent" alt="Asraful Islam's GitHub streak"/>
-   </a>
-  <a href="https://github.asraful-07">
-    <img alt="Atikur Rahman's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asraful-07&theme=transparent"/>
-  </a>
-</p>
-<br>
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 

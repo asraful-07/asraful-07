@@ -6,7 +6,8 @@
 ## Hi 👋, I'm Asraful Islam 
 
 <p align="center">
-  <a href="https://github.com/atikur-24"><img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%20Stack%20Developer;Front%20End%20Developer&center=true&width=400&height=60">
+  <a href="https://github.com/asraful-07">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;MREN%20Stack%20Developer&center=true&width=400&height=60">
   </a>
 </p>
 
@@ -89,4 +90,5 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ai.rahat.10)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+![Waves](https://raw.githubusercontent.com/asraful-07/asraful-07/main/wave.svg)
+

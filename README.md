@@ -75,8 +75,8 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
   <br/>
 
   <!-- GitHub Streak (FIXED) -->
-  <img src="https://streak-stats.demolab.com?user=asraful-07&theme=dark&mode=weekly" alt="GitHub Streak" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=asraful-07&theme=dark&mode=weekly" alt="GitHub Streak" />
+  
 </div>
 
 

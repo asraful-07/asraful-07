@@ -70,17 +70,15 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
         <img src="https://github-readme-stats.vercel.app/api?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- GitHub Streak -->
-        <a href="https://git.io/streak-stats">
-          <img src="https://streak-stats.demolab.com?user=asraful-07&theme=dark&mode=weekly" />
-        </a>
-      </td>
-    </tr>
   </table>
 
+  <br/>
+
+  <!-- GitHub Streak (FIXED) -->
+  <img src="https://streak-stats.demolab.com?user=asraful-07&theme=dark&mode=weekly" alt="GitHub Streak" />
+
 </div>
+
 
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 

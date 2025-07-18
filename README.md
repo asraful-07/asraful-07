@@ -1,7 +1,6 @@
 <div align="center">
 <img width="100%" src="https://i.ibb.co.com/NgVQLJfv/asraful-07-2png.jpg" alt="cover" />
 </div>
-<p> <img src="https://komarev.com/ghpvc/?username=asraful-07&label=Profile%20views&color=0e75b6&style=flat" alt="asraful-07" /> </p> 
 
 ## Hi 👋, I'm Asraful Islam 
 

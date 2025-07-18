@@ -54,11 +54,11 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
     <tr>
       <td>
         <!-- Languages Used -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-07&show_icons=true&hide_border=true&layout=compact&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000" />
       </td>
       <td>
         <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=asraful-07&show_icons=true&hide_border=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=000000" />
       </td>
     </tr>
   </table>
@@ -66,7 +66,7 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
   <br/>
 
   <!-- GitHub Streak (FIXED) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=asraful-07&theme=dark&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraful-07&hide_border=true&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=FFFFFF&background=000000" />
   
 </div> 
 

@@ -4,15 +4,11 @@
 
 ## Hi 👋, I'm Asraful Islam 
 
-<p align="center">
-  <a href="https://github.com/asraful-07">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Front%20End%20Developer&center=true&width=400&height=60">
-  </a>
-</p>
-
 Asraful Islam is a highly passionate Web Application Developer specializing in the JavaScript ecosystem. With a strong commitment to writing clean, efficient code and optimizing website performance, he strives to deliver high-quality solutions. Driven by innovation and teamwork, he is eager to contribute to dynamic projects and make a meaningful impact in a fast-paced development environment.
 
-### 🖥 Frontend  
+### ⚡ Tech Stack & Tools
+
+### 🖥 Languages, Frameworks & Libraries 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
@@ -27,8 +23,6 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
 </div>
 
-###  
-### ⚙️ Backend  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go logo" />
   <img width="12" />

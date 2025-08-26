@@ -31,8 +31,6 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongoose" alt="Mongoose" height="40" />
 </div>
 
 ###  

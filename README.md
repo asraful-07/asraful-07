@@ -18,6 +18,8 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="40" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
@@ -29,6 +31,8 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongoose" alt="Mongoose" height="40" />
 </div>
 
 ###  

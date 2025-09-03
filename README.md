@@ -91,6 +91,9 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://cdn.simpleicons.org/discord" height="40" alt="Discord logo" />
   </a>
+  <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo" />
+  </a>
 </div>
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)

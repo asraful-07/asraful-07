@@ -55,53 +55,43 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
 <br>
 
 <div align="center">
-
   <table>
     <tr>
       <td>
-        <!-- Languages Used -->
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
       </td>
       <td>
-        <!-- GitHub Stats -->
         <img src="https://github-readme-stats.vercel.app/api?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
       </td>
     </tr>
   </table>
-
   <br/>
-
-  <!-- GitHub Streak (FIXED) -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=asraful-07&theme=dark&mode=weekly" alt="GitHub Streak" />
-  
 </div> 
 
-  <!-- Social Badges -->
+<!-- Social Badges -->
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-<!-- LinkedIn -->
+<div align="left">
   <a href="https://www.linkedin.com/in/asraful-islam-573972318/" target="_blank">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
-  <!-- Twitter -->
   <a href="https://twitter.com/Asraful-Islam9211" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="Twitter logo" />
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="40" alt="Twitter logo" />
   </a>
   <img width="12" />
-  <!-- Gmail -->
   <a href="mailto:asraful0508@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail logo" />
+    <img src="https://cdn.simpleicons.org/gmail/FFFFFF" height="40" alt="Gmail logo" />
   </a>
   <img width="12" />
-  <!-- Facebook -->
   <a href="https://www.facebook.com/ai.rahat.10" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook logo" />
+    <img src="https://cdn.simpleicons.org/facebook/FFFFFF" height="40" alt="Facebook logo" />
   </a>
   <img width="12" />
-  <!-- Discord -->
   <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord logo" />
+    <img src="https://cdn.simpleicons.org/discord/FFFFFF" height="40" alt="Discord logo" />
   </a>
+</div>
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 

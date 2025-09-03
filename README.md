@@ -72,11 +72,11 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
 <!-- Social Badges -->
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
 <div align="left">
-  <a href="https://www.linkedin.com/in/asraful-islam-573972318/" target="blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn logo" />
+  <a href="https://www.linkedin.com/in/asraful-islam-573972318/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
-  <a href="https://twitter.com/Asraful-Islam9211" target="blank">
+  <a href="https://twitter.com/Asraful-Islam9211" target="_blank">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" height="40" alt="Twitter logo" />
   </a>
   <img width="12" />
@@ -84,11 +84,11 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
     <img src="https://cdn.simpleicons.org/gmail" height="40" alt="Gmail logo" />
   </a>
   <img width="12" />
-  <a href="https://www.facebook.com/ai.rahat.10" target="blank">
+  <a href="https://www.facebook.com/ai.rahat.10" target="_blank">
     <img src="https://cdn.simpleicons.org/facebook" height="40" alt="Facebook logo" />
   </a>
   <img width="12" />
-  <a href="https://discord.com/channels/@me" target="blank">
+  <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://cdn.simpleicons.org/discord" height="40" alt="Discord logo" />
   </a>
 </div>

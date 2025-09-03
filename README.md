@@ -78,20 +78,29 @@ Asraful Islam is a highly passionate Web Application Developer specializing in t
 
   <!-- Social Badges -->
 <h2>Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>  
-  <a href="https://www.linkedin.com/in/asraful-islam-573972318/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/asraful-islam-573972318/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="https://twitter.com/Asraful-Islam9211">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img width="12" />
+  <!-- Twitter -->
+  <a href="https://twitter.com/Asraful-Islam9211" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="Twitter logo" />
   </a>
+  <img width="12" />
+  <!-- Gmail -->
   <a href="mailto:asraful0508@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail logo" />
   </a>
-  <a href="https://www.facebook.com/ai.rahat.10">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img width="12" />
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/ai.rahat.10" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="Facebook logo" />
   </a>
-  <a href="https://discord.com/channels/@me">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  <img width="12" />
+  <!-- Discord -->
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord logo" />
   </a>
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)

@@ -4,7 +4,7 @@
 
 ## Hi 👋, I'm Asraful Islam 
 
-Asraful Islam is a highly passionate Web Application Developer specializing in the JavaScript ecosystem. With a strong commitment to writing clean, efficient code and optimizing website performance, he strives to deliver high-quality solutions. Driven by innovation and teamwork, he is eager to contribute to dynamic projects and make a meaningful impact in a fast-paced development environment.
+Asraful Islam is a highly passionate Full-Stack Web Application Developer specializing in the JavaScript ecosystem, Node.js, and Golang. With hands-on experience in backend development using Node.js and MongoDB (Mongoose), he is skilled in building scalable, secure, and efficient applications. He has a strong commitment to writing clean, optimized code and delivering high-quality solutions. Driven by innovation and teamwork, he thrives in both frontend and backend development, aiming to contribute to dynamic projects and make a meaningful impact in fast-paced development environments.
 
 ### ⚡ Tech Stack & Tools
 

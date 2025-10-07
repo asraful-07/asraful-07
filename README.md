@@ -35,6 +35,14 @@ Asraful Islam is a highly passionate Full-Stack Web Application Developer specia
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo" />
 </div>
 
 ###  

@@ -63,8 +63,6 @@ Asraful Islam is a highly passionate Full-Stack Web Application Developer specia
 </div>
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful-07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-
 <div align="center">
   <table>
     <tr>
@@ -87,16 +85,12 @@ Asraful Islam is a highly passionate Full-Stack Web Application Developer specia
     <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="40" alt="LinkedIn logo" />
   </a>
   <img width="12" />
-  <a href="https://twitter.com/Asraful-Islam9211" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="40" alt="Twitter logo" />
+  <a href="https://www.facebook.com/ai.rahat.10" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook" height="40" alt="Facebook logo" />
   </a>
   <img width="12" />
   <a href="mailto:asraful0508@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail" height="40" alt="Gmail logo" />
-  </a>
-  <img width="12" />
-  <a href="https://www.facebook.com/ai.rahat.10" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook" height="40" alt="Facebook logo" />
   </a>
   <img width="12" />
   <a href="https://discord.com/channels/@me" target="_blank">
@@ -105,6 +99,10 @@ Asraful Islam is a highly passionate Full-Stack Web Application Developer specia
   <img width="12" />
   <a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram logo" />
+  </a>
+   <img width="12" />
+   <a href="https://twitter.com/Asraful-Islam9211" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" height="40" alt="Twitter logo" />
   </a>
 </div>
 

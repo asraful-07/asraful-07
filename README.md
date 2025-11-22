@@ -10,6 +10,10 @@ Asraful Islam is a highly passionate Full-Stack Web Application Developer specia
 
 ### 🖥 Languages, Frameworks & Libraries 
 <div align="left">
+   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
@@ -33,16 +37,11 @@ Asraful Islam is a highly passionate Full-Stack Web Application Developer specia
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo" />
-  <img width="12" />
+ 
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL logo" />
-
-
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="C logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++ logo" />
-  <img width="12" />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo" />
 </div>
 

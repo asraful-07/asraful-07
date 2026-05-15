@@ -1,12 +1,18 @@
-<div align="center">
-<img width="100%" src="https://i.ibb.co.com/NgVQLJfv/asraful-07-2png.jpg" alt="cover" />
-</div>
 
 ## Hi 👋, I'm Asraful Islam 
+Passionate Full-Stack Developer | Next.js, Node.js, Go & PostgreSQL | Crafting scalable and modern web applications 🚀
 
-Asraful Islam is a highly passionate Full-Stack Web Application Developer specializing in the JavaScript ecosystem, Node.js, and Golang. With hands-on experience in backend development using Node.js and MongoDB (Mongoose), he is skilled in building scalable, secure, and efficient applications. He has a strong commitment to writing clean, optimized code and delivering high-quality solutions. Driven by innovation and teamwork, he thrives in both frontend and backend development, aiming to contribute to dynamic projects and make a meaningful impact in fast-paced development environments.
+About Me
+Asraful Islam isn't just a name — it's a philosophy of engineering:
+Relentless focus. Relentless learning. Relentless building — with humility and craft.
 
-### ⚡ Tech Stack & Tools
+I believe technology should be powerful, resilient, and human-centered.
+My journey is about designing systems that endure, scaling ideas that inspire, and collaborating with builders who dream big yet stay grounded.
+
+🌱 Currently Learning
+Data Structures & Algorithms (DSA)
+Design Patterns & SOLID Principles
+System Design & Scalable Architecture
 
 ### 🖥 Languages, Frameworks & Libraries 
 <div align="left">
@@ -104,6 +110,4 @@ Asraful Islam is a highly passionate Full-Stack Web Application Developer specia
     <img src="https://cdn.simpleicons.org/x/FFFFFF" height="40" alt="Twitter logo" />
   </a>
 </div>
-
-![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 

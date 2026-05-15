@@ -2,14 +2,14 @@
 ## Hi 👋, I'm Asraful Islam 
 Passionate Full-Stack Developer | Next.js, Node.js, Go & PostgreSQL | Crafting scalable and modern web applications 🚀
 
-About Me
+### About Me
 Asraful Islam isn't just a name — it's a philosophy of engineering:
 Relentless focus. Relentless learning. Relentless building — with humility and craft.
 
 I believe technology should be powerful, resilient, and human-centered.
 My journey is about designing systems that endure, scaling ideas that inspire, and collaborating with builders who dream big yet stay grounded.
 
-🌱 Currently Learning
+### 🌱 Currently Learning
 Data Structures & Algorithms (DSA)
 Design Patterns & SOLID Principles
 System Design & Scalable Architecture

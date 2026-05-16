@@ -1,6 +1,6 @@
 
 ## Hi 👋, I'm Asraful Islam 
-Passionate Full-Stack Developer | Next.js, Node.js, Go & PostgreSQL | Crafting scalable and modern web applications 🚀
+Passionate Full-Stack Developer | Next.js, Node.js, Go & PostgreSQL | Crafting scalable and modern web applications.
 
 ### About Me
 - Passionate about building scalable, high-performance web applications

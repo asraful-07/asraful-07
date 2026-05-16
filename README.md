@@ -11,8 +11,7 @@ Passionate Full-Stack Developer | Next.js, Node.js, Go & PostgreSQL | Crafting s
 - Continuously improving through real-world projects and problem solving
 
 ### 🌱 Currently Learning
-- Data Structures & Algorithms (DSA)
-- Design Patterns & SOLID Principles
+- Advanced Data Structures & Algorithms (DSA)
 - System Design & Scalable Architecture
 
 ### 🖥 Languages, Frameworks & Libraries 
